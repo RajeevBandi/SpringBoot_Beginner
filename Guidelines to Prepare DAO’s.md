@@ -1,4 +1,4 @@
-## Guidelines to Prepare DAOs:
+# Guidelines to Prepare DAOs:
 
 1. **Define DAO Interfaces Clearly**
    - **Single Responsibility:** Each DAO interface should handle operations related to a specific entity.
