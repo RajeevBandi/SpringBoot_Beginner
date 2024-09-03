@@ -1,4 +1,4 @@
-## JDBC Template
+# JDBC Template
 
 `JdbcTemplate` is a central class in Spring's JDBC core package, designed to simplify and streamline the use of JDBC (Java Database Connectivity). It provides a high-level abstraction for interacting with databases, handling common tasks and errors associated with JDBC, and improving code readability and maintainability.
 
