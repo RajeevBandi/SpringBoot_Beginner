@@ -7,5 +7,8 @@ Spring JDBC is a module within the Spring Framework that provides a simplified a
 **RowMapper:** This interface is used to map rows of a ResultSet to objects. You implement this interface to define how each row in the result set should be converted into an object.
 
 **DataSource:** This is an interface that provides a standard way to connect to a database. In Spring JDBC, you typically configure a DataSource bean that JdbcTemplate will use to obtain database connections.
+
 ---
-![This is a image]()
+## Manual Configuration:
+![This is a image](https://raw.githubusercontent.com/RajeevBandi/SpringBoot_Beginner/main/Jdbc_manual_configuration.png)
+---
